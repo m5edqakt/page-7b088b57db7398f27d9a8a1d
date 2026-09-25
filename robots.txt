@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.nwgyj.cn/sitemap.xml
